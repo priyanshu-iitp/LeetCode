@@ -2,26 +2,18 @@ class Solution {
 public:
     bool isPalindrome(string s) {
 
-        string st="";
-        for(auto it:s)
-        {
-            if(it>='a' && it<='z')
-            st.push_back(it);
-            else if(it>='A' && it<='Z')
-            st.push_back(it-'A'+'a');
-            else if(it>='0' && it<='9')
-            st.push_back(it);
-        }
-
-        int l=0,r=st.size()-1;
+        int l=0,r=s.size()-1;
         while(l<r)
         {
-            if(st[r]!=st[l])
+            while(l<r && !isalnum(s[l])) l++;
+            while(l<r && !isalnum(s[r])) r--;
+
+            if(tolower(s[l])!=tolower(s[r]))
             return false;
 
-            l++,r--;
-        }
+            r--,l++;
 
+        }
         return true;
         
     }
