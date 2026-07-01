@@ -5,13 +5,17 @@ public:
         int l=0,r=s.size()-1;
         while(l<r)
         {
-            while(l<r && !isalnum(s[l])) l++;
-            while(l<r && !isalnum(s[r])) r--;
+            if(!isalnum(s[l]))
+            l++;
+            else if(!isalnum(s[r]))
+            r--;
+            else
+            {
+                if(tolower(s[l])!=tolower(s[r]))
+                return false;
 
-            if(tolower(s[l])!=tolower(s[r]))
-            return false;
-
-            r--,l++;
+                r--,l++;
+            }
 
         }
         return true;
