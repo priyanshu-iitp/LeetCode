@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/priyanshu-iitp/LeetCode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyanshu-iitp/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/priyanshu-iitp/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu-iitp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-iitp/LeetCode/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
