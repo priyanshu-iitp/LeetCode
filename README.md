@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu-iitp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/priyanshu-iitp/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-iitp/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu-iitp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
