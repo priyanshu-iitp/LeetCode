@@ -3,28 +3,23 @@ public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
 
         long long ans=0;
-        long long sum=0;
         int n=nums.size();
-
         unordered_map<int,int>m;
+        long long sum=0;
+        
         int l=0,r=0;
-
-        while(r<nums.size())
+        while(r<n)
         {
-            
             while(m.count(nums[r]))
             {
                 sum-=nums[l];
                 m.erase(nums[l]);
-
                 l++;
             }
 
-          
             sum+=nums[r];
             m[nums[r]]++;
-            
-            
+
             if(m.size()==k)
             {
                 ans=max(ans,sum);
@@ -36,10 +31,7 @@ public:
             }
 
             r++;
-
         }
-        
-
         return ans;
     }
 };
