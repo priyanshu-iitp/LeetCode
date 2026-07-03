@@ -8,17 +8,24 @@ public:
         par[it-'a']++;
 
         int n=s2.size();
-        vector<int>m(26,0);
+        int cnt=0;
         int l=0,r=0;
         while(r<n)
         {
-            m[s2[r]-'a']++;
+            if(par[s2[r]-'a']>0)
+            cnt++;
+
+            par[s2[r]-'a']--;
+
             if(r-l+1>s1.size())
             {
-                m[s2[l]-'a']--;
+                par[s2[l]-'a']++;
+                if(par[s2[l]-'a']>0)
+                cnt--;
+
                 l++;
             }
-            if(r-l+1==s1.size() && m==par)
+            if(r-l+1==s1.size() && cnt==s1.size())
             return true;
 
             r++;
