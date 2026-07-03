@@ -2,30 +2,33 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
 
-        //optimal solution
-        
-
-        int n=s.size();
-        int m=p.size();
-        vector<int>ans;
-
-        vector<int>ch(26,0);
+        unordered_map<char,int>smap,pmap;
         for(auto it:p)
-        ch[it-'a']++;
+        pmap[it]++;
 
+
+        int cnt=0;
         int l=0,r=0;
-        vector<int>m1(26,0);
-        while(r<n)
+        vector<int>ans;
+        while(r<s.size())
         {
-            m1[s[r]-'a']++;
+            smap[s[r]]++;
+            if(pmap.count(s[r]) && smap[s[r]]<=pmap[s[r]])
+            cnt++;
 
-            if(r-l+1>m)
+            while(r-l+1>p.size())
             {
-                m1[s[l]-'a']--;
+                if(pmap.count(s[l]) && smap[s[l]]<=pmap[s[l]])
+                cnt--;
+
+                smap[s[l]]--;
+                if(smap[s[l]]==0)
+                smap.erase(s[l]);
+
                 l++;
             }
 
-            if(r-l+1==m && m1==ch)
+            if(cnt==p.size())
             ans.push_back(l);
 
             r++;
@@ -33,7 +36,6 @@ public:
 
         return ans;
         
-
         
     }
 };
