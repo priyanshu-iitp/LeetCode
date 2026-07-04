@@ -4,18 +4,22 @@ public:
 
 
         int n=nums.size();
-        vector<int>right(n,0);
+        int right=0;
 
         for(int i=n-2;i>=0;i--)
-        right[i]=nums[i+1]+right[i+1];
+        right=nums[i+1]+right;
 
         int left=0;
         for(int i=0;i<n;i++)
         {
             if(i>0)
-            left=left+nums[i-1];
+            {
+                left=left+nums[i-1];
+                right=right-nums[i];
 
-            if(right[i]==left)
+            }
+
+            if(right==left)
             return i;
         }
 
