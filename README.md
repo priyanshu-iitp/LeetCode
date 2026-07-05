@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+## Concurrency
+|  |
+| ------- |
+| [1115-print-foobar-alternately](https://github.com/priyanshu-iitp/LeetCode/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
