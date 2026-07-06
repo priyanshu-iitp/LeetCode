@@ -2,34 +2,26 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
 
-        int n=intervals.size();
-        int merg=0;
+        
 
-        sort(intervals.begin(),intervals.end());
-        int start=intervals[0][0];
-        int end=intervals[0][1];
+        sort(intervals.begin(),intervals.end(), [](auto&a, auto&b){
+            if(a[0]==b[0])return a[1]>b[1];
+            return a[0]<b[0];
+        });
 
-        for(int i=1;i<n;i++)
+        int ans=0;
+        int prevend=-1;
+        for(auto it:intervals)
         {
-            if(start==intervals[i][0])
+            if(it[1]>prevend)
             {
-                merg++;
-                start=intervals[i][0];
-                end=intervals[i][1];
-            }
-            else if(end>=intervals[i][0] && end>=intervals[i][1])
-            {
-                merg++;
-            }
-            else
-            {
-                start=intervals[i][0];
-                end=intervals[i][1];
+                ans++;
+                prevend=it[1];
             }
         }
         
 
-        return intervals.size()-merg;
+        return  ans;
         
         
     }
