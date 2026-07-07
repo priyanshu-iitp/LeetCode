@@ -1,39 +1,57 @@
 class Solution {
 public:
-    int check(string &s,int l,int r)
-    {
-        while(l>=0 && r<s.size())
-        {
-            if(s[l]!=s[r])
-            break;
-
-            l--,r++;
-        }
-
-        return r-l-1;
-    }
     string longestPalindrome(string s) {
 
-        //expand around center
-        int n=s.size();
-        int start=0,end=0;
-        for(int i=0;i<n;i++)
-        {
-            int len=check(s,i,i);
-            int len2=check(s,i,i+1);
-            int maxlen=max(len,len2);
+        //manachers algo
 
-            if(maxlen>end-start)
+        //step 1:-transformaton
+        string st="";
+        st+='#';
+        for(auto it:s)
+        {
+            st+=it;
+            st+='#';
+        }
+
+        int center=0;
+        int right=0;
+        int n=st.size();
+        vector<int>p(n,0);
+
+        for(int i=1;i<n;i++)
+        {
+            int mirror=2*center-i;
+
+            if(i<right)
+            p[i]=min(right-i,p[mirror]);
+
+            while(i-p[i]-1>=0 && i+p[i]+1<n)
             {
-                start=i-(maxlen-1)/2;
-                end=i+maxlen/2;
+                if(st[i-p[i]-1]==st[i+p[i]+1])
+                p[i]++;
+                else break;
+            }
+
+            if(i+p[i]>right)
+            {
+                center=i;
+                right=i+p[i];
             }
         }
 
-        return s.substr(start,end-start+1);
+        int start=-1;
+        int maxi=0;
+        for(int i=0;i<n;i++)
+        {
+            if(p[i]>maxi)
+            {
+                start=i;
+                maxi=p[i];
+            }
+        }
+        int original=(start-maxi)/2;
 
-
-
+        return s.substr(original,maxi);
         
     }
 };
