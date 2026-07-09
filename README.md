@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/priyanshu-iitp/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Graph Theory
 |  |
 | ------- |
