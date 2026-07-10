@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/priyanshu-iitp/LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/priyanshu-iitp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/priyanshu-iitp/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/priyanshu-iitp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
