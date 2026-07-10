@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/priyanshu-iitp/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3912-valid-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3912-valid-elements-in-an-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-iitp/LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
 | ------- |
