@@ -1,35 +1,27 @@
 class Solution {
 public:
-    bool found(vector<vector<int>>& mat, int target,int i)
-    {
-        int low=0;
-        int high=mat[0].size()-1;
-        while(low<=high)
-        {
-            int mid=low+(high-low)/2;
-
-            if(mat[i][mid]==target) return true;
-            else if(mat[i][mid]>target) high=mid-1;
-            else low=mid+1;
-        }
-        return false;
-    }
+    
     bool searchMatrix(vector<vector<int>>& mat, int target) {
 
+        //most optimal tc:-O(log(R*C)) and sc:-O(1);
         int r=mat.size();
         int c=mat[0].size();
 
-        int low=0,high=r-1;
+        int low=0,high=(r*c)-1;
         while(low<=high)
         {
             int mid=low+(high-low)/2;
 
-            if(found(mat,target,mid)) return true;
-            else if(mat[mid][0]>target) high=mid-1;
+            int row=mid/c;
+            int col=mid%c;
+
+            if(mat[row][col]==target) return true;
+            else if(mat[row][col]>target) high=mid-1;
             else low=mid+1;
         }
-
         return false;
+
+       
         
     }
 };
