@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3856-trim-trailing-vowels](https://github.com/priyanshu-iitp/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3913-sort-vowels-by-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Hash Table
