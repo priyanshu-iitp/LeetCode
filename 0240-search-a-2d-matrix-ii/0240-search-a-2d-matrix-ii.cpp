@@ -1,27 +1,16 @@
 class Solution {
 public:
-    bool found(vector<vector<int>>& mat, int target,int r)
-    {
-        int low=0;
-        int high=mat[0].size()-1;
-
-        while(low<=high)
-        {
-            int mid=low+(high-low)/2;
-            if(mat[r][mid]==target) return true;
-            else if(mat[r][mid]>target) high=mid-1;
-            else low=mid+1;
-        }
-        return false;
-    }
     bool searchMatrix(vector<vector<int>>& mat, int target) {
 
         int r=mat.size();
         int c=mat[0].size();
 
-        for(int i=0;i<r;i++)
+        int low=0,high=c-1;
+        while(low<r && high>=0)
         {
-            if(found(mat,target,i)) return true;
+            if(mat[low][high]==target) return true;
+            else if(mat[low][high]>target) high--;
+            else low++;
         }
         return false;
         
