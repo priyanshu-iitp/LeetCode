@@ -5,12 +5,12 @@ public:
         int r=mat.size();
         int c=mat[0].size();
 
-        int low=0,high=c-1;
-        while(low<r && high>=0)
+        int low=r-1,high=0;
+        while(low>=0 && high<c)
         {
             if(mat[low][high]==target) return true;
-            else if(mat[low][high]>target) high--;
-            else low++;
+            else if(mat[low][high]>target) low--;
+            else high++;
         }
         return false;
         
