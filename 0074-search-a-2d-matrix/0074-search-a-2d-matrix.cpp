@@ -19,9 +19,14 @@ public:
         int r=mat.size();
         int c=mat[0].size();
 
-        for(int i=0;i<r;i++)
+        int low=0,high=r-1;
+        while(low<=high)
         {
-            if(found(mat,target,i)) return true;
+            int mid=low+(high-low)/2;
+
+            if(found(mat,target,mid)) return true;
+            else if(mat[mid][0]>target) high=mid-1;
+            else low=mid+1;
         }
 
         return false;
