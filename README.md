@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2544-alternating-digit-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshu-iitp/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/priyanshu-iitp/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshu-iitp/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Backtracking
 |  |
