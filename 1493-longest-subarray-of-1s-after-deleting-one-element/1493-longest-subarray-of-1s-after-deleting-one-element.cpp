@@ -14,17 +14,24 @@ public:
         if(zero==n) return 0;
         else if(ones==n) return n-1;
 
-        int l=-1,r=0;
+        int l=0,r=0;
         int ans=0,cnt=0;
+        int z=0;
         while(r<n)
         {
-           if(nums[r]==0) 
-           {
+           if(nums[r]==0) z++;
+           else 
+           {    
+                cnt++;
                 ans=max(ans,cnt);
-                cnt=r-l-1;
-                l=r;
            }
-           else cnt++;
+
+           while(z>1)
+           {
+                if(nums[l]==1)cnt--;
+                else z--;
+                l++;
+           }
 
             
             r++;
