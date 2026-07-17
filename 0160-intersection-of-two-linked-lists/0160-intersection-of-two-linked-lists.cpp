@@ -10,55 +10,25 @@ class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
 
-        int cnt1=0;
-        ListNode*tempA=headA;
-        while(tempA)
+
+        //most optimal solution
+        
+        if(headA==NULL || headB==NULL) return NULL;
+
+        ListNode*t1=headA;
+        ListNode*t2=headB;
+        while(t1!=t2)
         {
-            cnt1++;
-            tempA=tempA->next;
+            t1=t1->next;
+            t2=t2->next;
+
+            if(t1==t2)return t1;
+
+            if(t1==NULL)t1=headB;
+            if(t2==NULL)t2=headA;
         }
 
-        int cnt2=0;
-        ListNode*tempB=headB;
-        while(tempB)
-        {
-            cnt2++;
-            tempB=tempB->next;
-        }
-
-        ListNode*first=headA;
-        ListNode*sec=headB;
-        if(cnt1>cnt2)
-        {
-            int x=cnt1-cnt2;
-            while(x)
-            {
-                first=first->next;
-                x--;
-            }
-        }
-        else
-        {
-            int x=cnt2-cnt1;
-            while(x)
-            {
-                sec=sec->next;
-                x--;
-            } 
-        }
-
-        while(first)
-        {
-            if(first==sec)
-            return first;
-
-            first=first->next;
-            sec=sec->next;
-        }
-
-        return NULL;
-
-
+        return t1;
         
     }
 };
