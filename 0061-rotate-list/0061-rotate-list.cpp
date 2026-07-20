@@ -37,32 +37,42 @@ public:
 
         if(head==NULL || head->next==NULL || k==0) return head;
 
-        int len=0;
-        ListNode*temp=head;
-        while(temp)
+        int len=1;
+        ListNode*tail=head;
+        while(tail->next)
         {
-            temp=temp->next;
+            tail=tail->next;
             len++;
         }
         k=k%len;
-        if(k==0) return head;
 
-        temp=head;
-        ListNode*rhead=reverse(temp);
-        
-
-
-        temp=rhead;
-        ListNode*kthnode=findnode(temp,k);
-
-        head=kthnode;
-        temp=kthnode->next;
-        kthnode->next=NULL;
-        reverse(rhead);
-
-        rhead->next=reverse(temp);
-
+        if(k==0) 
         return head;
+
+
+        int x=len-k;
+        ListNode*temp=head;
+        ListNode*prev=NULL;
+        while(x--)
+        {
+            prev=temp;
+            temp=temp->next;
+        }
+
+        prev->next=NULL;
+        tail->next=head;
+        head=temp;
+        
+        return head;
+
+
+
+       
+
+
+
+
+    
         
     }
 };
