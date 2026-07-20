@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshu-iitp/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanshu-iitp/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priyanshu-iitp/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/priyanshu-iitp/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1314-matrix-block-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-iitp/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanshu-iitp/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/priyanshu-iitp/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
