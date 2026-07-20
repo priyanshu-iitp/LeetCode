@@ -49,21 +49,18 @@ public:
         if(k==0) 
         return head;
 
-
-        int x=len-k;
+        tail->next=head;
         ListNode*temp=head;
-        ListNode*prev=NULL;
+        int x=len-k-1;
         while(x--)
         {
-            prev=temp;
             temp=temp->next;
         }
 
-        prev->next=NULL;
-        tail->next=head;
-        head=temp;
-        
+        head=temp->next;
+        temp->next=NULL;
         return head;
+       
 
 
 
