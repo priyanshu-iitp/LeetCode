@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priyanshu-iitp/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/priyanshu-iitp/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-iitp/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu-iitp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/priyanshu-iitp/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/priyanshu-iitp/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshu-iitp/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-iitp/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -365,4 +369,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
