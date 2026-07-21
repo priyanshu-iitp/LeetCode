@@ -19,25 +19,47 @@ public:
     Node* copyRandomList(Node* head) {
 
         Node*temp=head;
-        unordered_map<Node*,Node*>m;
+
+        //step 1:-insert copy node between original node
         while(temp)
         {
-            Node* copy=new Node(temp->val);
-            m[temp]=copy;
-            temp=temp->next;
+            Node*copy=new Node(temp->val);
+            copy->next=temp->next;
+            temp->next=copy;
+
+            temp=temp->next->next;
         }
 
+        // step 2:-connect random pointer to copy node
         temp=head;
         while(temp)
         {
-            Node*copy=m[temp];
-            copy->next=m[temp->next];
-            copy->random=m[temp->random];
+            Node*copy=temp->next;
+            if(temp->random) copy->random=temp->random->next;
+            else copy->random=NULL;
+
+            temp=temp->next->next;
+        }
+
+        //step 3:detach inserted copy list from original
+        temp=head;
+        Node*dummy=new Node(1e9);
+        Node*res=dummy;
+        while(temp)
+        {
+            res->next=temp->next;
+            res=res->next; 
+
+
+            temp->next=res->next;
             temp=temp->next;
         }
 
-        temp=m[head];
+        temp=dummy->next;
+        delete dummy;
         return temp;
+
+
         
     }
 };
