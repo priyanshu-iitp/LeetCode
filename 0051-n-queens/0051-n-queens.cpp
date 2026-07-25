@@ -1,61 +1,7 @@
 class Solution {
 public:
-    bool issafe(int row,int col,vector<string>&temp,int n)
-    {
-        //row
-        for(int i=0;i<n;i++)
-        {
-            if(temp[row][i]=='Q') return false;
-        }
-        //col
-        for(int i=0;i<n;i++)
-        {
-            if(temp[i][col]=='Q') return false;
-        }
-
-        //dialgonal;
-        //1:-upper diagonal;
-        int dr=row;
-        int dc=col;
-        while(dr>=0 && dc>=0)
-        {
-            if(temp[dr][dc]=='Q')return false;
-            dr--;
-            dc--;
-        }
-        //2:-lower diagonal
-        dr=row;
-        dc=col;
-        while(dr<n && dc<n)
-        {
-            if(temp[dr][dc]=='Q')return false;
-            dr++;
-            dc++;
-        }
-
-        dr=row;
-        dc=col;
-        while(dr<n && dc>=0)
-        {
-            if(temp[dr][dc]=='Q')return false;
-            dr++;
-            dc--;
-        }
-
-        dr=row;
-        dc=col;
-        while(dr>=0 && dc<n)
-        {
-            if(temp[dr][dc]=='Q')return false;
-            dr--;
-            dc++;
-        }
-        
-
-        return true;
-
-    }
-    void canplace(int n,vector<vector<string>>&ans,vector<string>&temp,int j)
+   
+    void canplace(int n,vector<vector<string>>&ans,vector<string>&temp,int j,vector<bool>&row,vector<bool>&leftdig,vector<bool>&rightdig)
     {
         if(j==n)
         {
@@ -65,25 +11,30 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            if(issafe(i,j,temp,n))
+            if(row[i]==0 && leftdig[n-1+i-j]==0 && rightdig[j+i]==0)
             {
                 temp[i][j]='Q';
-                canplace(n,ans,temp,j+1);
+                row[i]=1;
+                leftdig[n-1+i-j]=1;
+                rightdig[j+i]=1;
+                canplace(n,ans,temp,j+1,row,leftdig,rightdig);
                 temp[i][j]='.';
+                row[i]=0;
+                leftdig[n-1+i-j]=0;
+                rightdig[j+i]=0;
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
 
         vector<vector<string>>ans;
-        vector<string>temp(n);
-        string s(n,'.');
-        for(int i=0;i<n;i++)
-        {
-            temp[i]=s;
-        }
-        
-        canplace(n,ans,temp,0);
+        vector<string>temp(n,string(n,'.'));
+
+        vector<bool>row(n,0);
+        vector<bool>leftdig(2*n-1,0);
+        vector<bool>rightdig(2*n-1,0);
+
+        canplace(n,ans,temp,0,row,leftdig,rightdig);
         return ans;
         
     }
