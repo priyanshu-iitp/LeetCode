@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshu-iitp/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/priyanshu-iitp/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-iitp/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-iitp/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
