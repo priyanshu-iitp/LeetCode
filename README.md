@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/priyanshu-iitp/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/priyanshu-iitp/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
