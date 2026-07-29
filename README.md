@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
