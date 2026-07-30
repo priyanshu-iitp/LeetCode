@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshu-iitp/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3582-generate-tag-for-video-caption](https://github.com/priyanshu-iitp/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
