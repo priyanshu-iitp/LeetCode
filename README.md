@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3407-substring-matching-pattern](https://github.com/priyanshu-iitp/LeetCode/tree/master/3407-substring-matching-pattern) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/priyanshu-iitp/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
 ## Sliding Window
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshu-iitp/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3913-sort-vowels-by-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Simulation
 |  |
