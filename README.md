@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priyanshu-iitp/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/priyanshu-iitp/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1329-sort-the-matrix-diagonally](https://github.com/priyanshu-iitp/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshu-iitp/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/priyanshu-iitp/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1329-sort-the-matrix-diagonally](https://github.com/priyanshu-iitp/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanshu-iitp/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1314-matrix-block-sum) |
+| [1329-sort-the-matrix-diagonally](https://github.com/priyanshu-iitp/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1672-richest-customer-wealth](https://github.com/priyanshu-iitp/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
