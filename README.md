@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-iitp/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshu-iitp/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/priyanshu-iitp/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -497,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/priyanshu-iitp/LeetCode/tree/master/3407-substring-matching-pattern) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
