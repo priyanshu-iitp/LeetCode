@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu-iitp/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/priyanshu-iitp/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
+| [3794-reverse-string-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/priyanshu-iitp/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3913-sort-vowels-by-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3794-reverse-string-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Search
