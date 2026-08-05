@@ -1,22 +1,5 @@
 class Solution {
 public:
-    bool sub(vector<int>&nums,int k,int i,vector<vector<int>>&dp)
-    {
-        if(k==0)return true;
-        if(i==0) return nums[0]==k;
-
-        if(dp[i][k]!=-1) return dp[i][k];
-
-        //not pick
-        bool notpick=sub(nums,k,i-1,dp);
-
-        //pick
-        bool pick=false;
-        if(k>=nums[i])
-        pick=sub(nums,k-nums[i],i-1,dp);
-
-        return dp[i][k]= (pick||notpick);
-    }
     bool canPartition(vector<int>& nums) {
 
         int sum=0;
@@ -28,8 +11,31 @@ public:
         int n=nums.size();
         int k=sum/2;
 
-        vector<vector<int>>dp(n,vector<int>(k+1,-1));
-        return sub(nums,k,n-1,dp);
+        vector<vector<bool>>dp(n,vector<bool>(k+1,0));
+
+        for(int i=0;i<n;i++)
+        dp[i][0]=true;
+
+        if(k>=nums[0])
+        dp[0][nums[0]]=true;
+
+
+        for(int i=1;i<n;i++)
+        {
+            for(int j=1;j<=k;j++)
+            {
+                //not pick
+                bool notpick=dp[i-1][j];
+
+                //pick
+                bool pick=false;
+                if(j>=nums[i])
+                pick=dp[i-1][j-nums[i]];
+
+                dp[i][j]=pick||notpick;
+            }
+        }
+        return dp[n-1][k];
         
     }
 };
