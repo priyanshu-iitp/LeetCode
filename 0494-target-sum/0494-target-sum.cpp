@@ -1,24 +1,5 @@
 class Solution {
 public:
-    int solve(vector<int>&nums,int i,int k,vector<vector<int>>&dp)
-    {
-        if(i==0) 
-        {
-            if(k==0 && nums[0] == 0) return 2;
-            if (k==0 || nums[0] == k) return 1;
-            return 0;
-        }
-
-        if(dp[i][k]!=-1)return dp[i][k];
-
-        //notpick
-        int notpick=solve(nums,i-1,k,dp);
-        int pick=0;
-        if(k>=nums[i])pick=solve(nums,i-1,k-nums[i],dp);
-
-        return dp[i][k]=pick+notpick;
-
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
 
         int sum=0;
@@ -28,8 +9,27 @@ public:
         if((sum-target)%2==1 || sum-target<0)return 0;
 
         int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(k+1,-1));
-        return solve(nums,n-1,k,dp);
+        vector<vector<int>>dp(n,vector<int>(k+1,0));
+
+        for(int i=0;i<=k;i++)
+        {
+            if(i==0 && nums[0] == 0) dp[0][i]=2;
+            else if (i==0 || nums[0] == i) dp[0][i]=1;
+        }
+
+        for(int i=1;i<n;i++)
+        {
+            for(int j=0;j<=k;j++)
+            {
+                //notpick
+                int notpick=dp[i-1][j];
+                int pick=0;
+                if(j>=nums[i])pick=dp[i-1][j-nums[i]];
+
+                dp[i][j]=pick+notpick;
+            }
+        }
+        return dp[n-1][k];
 
         
     }
