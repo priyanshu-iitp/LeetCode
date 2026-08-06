@@ -1,15 +1,17 @@
 class Solution {
 public:
-
     int coinChange(vector<int>& nums, int k) {
         
         int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(k+1,1e8));
+        vector<int>prev(k+1,0);
+        vector<int>temp(k+1,0);
 
         for(int i=0;i<=k;i++)
         {
             if(i%nums[0]==0)
-            dp[0][i]=i/nums[0];
+            prev[i]=i/nums[0];
+            else prev[i]=1e8;
+            
         }
 
 
@@ -17,18 +19,19 @@ public:
         {
             for(int j=0;j<=k;j++)
             {
-                int notpick=dp[i-1][j];
+                int notpick=prev[j];
                 int pick=1e8;
                 if(j>=nums[i]) 
                 {
-                        int x=dp[i][j-nums[i]];
+                        int x=temp[j-nums[i]];
                         pick=1+x;
                 }
 
-                dp[i][j]=min(pick,notpick);
+                temp[j]=min(pick,notpick);
             }
+            prev=temp;
         }
 
-        return dp[n-1][k]==1e8?-1:dp[n-1][k]; 
+        return prev[k]==1e8?-1:prev[k]; 
     }
 };
