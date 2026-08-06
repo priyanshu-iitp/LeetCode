@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/priyanshu-iitp/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priyanshu-iitp/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/priyanshu-iitp/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -553,9 +556,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
