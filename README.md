@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-iitp/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/priyanshu-iitp/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
@@ -558,10 +561,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/priyanshu-iitp/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
