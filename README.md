@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/priyanshu-iitp/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/priyanshu-iitp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -584,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
