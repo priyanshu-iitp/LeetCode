@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/priyanshu-iitp/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/priyanshu-iitp/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/priyanshu-iitp/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/priyanshu-iitp/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priyanshu-iitp/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0213-house-robber-ii) |
