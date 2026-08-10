@@ -6,19 +6,18 @@ public:
         int m=t.size();
 
         vector<double>prev(m+1,0);
-        vector<double>temp(m+1,0);
+      
 
-        prev[0]=temp[0]=1;
+        prev[0]=1;
 
 
         for(int i=1;i<=n;i++)
         {
-            for(int j=1;j<=m;j++)
+            for(int j=m;j>=1;j--)
             {
-                if(s[i-1]==t[j-1]) temp[j]=prev[j-1] + prev[j];
-                else temp[j]=prev[j];
+                if(s[i-1]==t[j-1]) prev[j]=prev[j-1] + prev[j];
+                else prev[j]=prev[j];
             }
-            prev.swap(temp);
         }
         return (int)prev[m];
         
