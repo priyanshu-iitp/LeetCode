@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-iitp/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/priyanshu-iitp/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/priyanshu-iitp/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-iitp/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/priyanshu-iitp/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0213-house-robber-ii) |
