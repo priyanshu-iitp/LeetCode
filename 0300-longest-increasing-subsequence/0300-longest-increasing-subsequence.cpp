@@ -1,27 +1,24 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        
-        int n=nums.size();
-        vector<int>ans(n,1);
 
-        for(int i=1;i<n;i++)
-        {   
-            for(int j=0;j<i;j++)
+        //most optimal solution TC:_O(NLOGN)
+        vector<int>temp;
+        temp.push_back(nums[0]);
+
+        for(int i=1;i<nums.size();i++)
+        {
+            if(nums[i]>temp.back())
+            temp.push_back(nums[i]);
+            else
             {
-                if(nums[i]>nums[j])
-                {
-                    ans[i]=max(ans[i],1+ans[j]);
-                }
+                int ind=lower_bound(temp.begin(),temp.end(),nums[i])-temp.begin();
+                temp[ind]=nums[i];
             }
         }
 
-        int res=0;
-        for(auto it:ans)
-        res=max(res,it);
 
-        return res;
-
-
+        return temp.size();
+        
     }
 };
