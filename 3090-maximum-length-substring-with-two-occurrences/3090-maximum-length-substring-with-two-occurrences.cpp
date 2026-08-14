@@ -4,20 +4,21 @@ public:
 
         int n=s.size();
         int ans=0;
-        for(int i=0;i<n;i++)
-        {   
-            unordered_map<char,int>m;
-            for(int j=i;j<n;j++)
+        unordered_map<char,int>m;
+        int l=0,r=0;
+        while(r<n)
+        {
+            m[s[r]]++;
+
+            while(m[s[r]]>2)
             {
-                m[s[j]]++;
-
-                if(m[s[j]]>2)
-                break;
-
-                ans=max(ans,j-i+1);
+                m[s[l]]--;
+                l++;
             }
-        }
 
+            ans=max(ans,r-l+1);
+            r++;
+        }
         return ans;
         
     }
