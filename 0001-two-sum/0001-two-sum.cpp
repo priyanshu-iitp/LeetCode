@@ -3,18 +3,20 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
 
         int n=nums.size();
+        unordered_map<int ,int>m;
+        m[nums[0]]=0;
 
-        vector<int>ans(2,0);
-        for(int i=0;i<n-1;i++)
+        for(int i=1;i<n;i++)
         {
-            for(int j=i+1;j<n;j++)
-            {
-                if(nums[i]+nums[j]==target)
-                return {i,j};
-            }
+            int x=target-nums[i];
+
+            if(m.count(x))
+            return {m[x],i};
+
+            m[nums[i]]=i;
         }
 
-        return ans;
+        return {0,0};
         
     }
 };
