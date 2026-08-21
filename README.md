@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshu-iitp/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyanshu-iitp/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshu-iitp/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyanshu-iitp/LeetCode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting Sort
 |  |
 | ------- |
