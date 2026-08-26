@@ -6,41 +6,68 @@ public:
         int n=s.size();
         int idx=-1;
         int len=INT_MAX;
-        for(int i=0;i<n;i++)
+        int ones=0;
+        int l=0;
+
+        for(int r=0;r<n;r++)
         {   
-            int check=0;
-            for(int j=i;j<n;j++)
-            {   
-                if(s[j]=='1') check++;
-                
-                if(check>k) break;
-                if(check==k && len>j-i+1)
-                {
-                    idx=i;
-                    len=j-i+1;
-                }
+            if(s[r]=='1') ones++;
+
+            while(ones>k)
+            {
+                if(s[l]=='1')ones--;
+                l++;
             }
+
+            while(ones==k && l<r && s[l]=='0')
+            {
+                l++;
+            }
+
+
+
+            if(ones==k && len>r-l+1)
+            {
+                idx=l;
+                len=r-l+1;
+            }
+
         }
 
         if(idx==-1) return "";
-
+        
+        l=0;
+        ones=0;
         vector<string>ans;
-        for(int i=0;i<n;i++)
+        for(int r=0;r<n;r++)
         {   
-            int check=0;
-            for(int j=i;j<n;j++)
-            {   
-                if(s[j]=='1')check++;
-                if(check>k) break;
-                if(check==k && j-i+1==len)
-                {
-                    ans.push_back(s.substr(i,len));
-                }
+            if(s[r]=='1') ones++;
+
+            while(ones>k)
+            {
+                if(s[l]=='1')ones--;
+                l++;
             }
+
+            while(ones==k && l<r && s[l]=='0')
+            {
+                l++;
+            }
+
+
+
+            if(ones==k && len==r-l+1)
+            {
+                ans.push_back(s.substr(l,len));
+            }
+
         }
+
+
 
         sort(ans.begin(),ans.end());
         return ans[0];
+       
         
         
     }
