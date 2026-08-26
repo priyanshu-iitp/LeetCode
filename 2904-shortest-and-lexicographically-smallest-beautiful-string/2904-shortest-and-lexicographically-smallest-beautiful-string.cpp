@@ -12,7 +12,8 @@ public:
             for(int j=i;j<n;j++)
             {   
                 if(s[j]=='1') check++;
-
+                
+                if(check>k) break;
                 if(check==k && len>j-i+1)
                 {
                     idx=i;
@@ -30,6 +31,7 @@ public:
             for(int j=i;j<n;j++)
             {   
                 if(s[j]=='1')check++;
+                if(check>k) break;
                 if(check==k && j-i+1==len)
                 {
                     ans.push_back(s.substr(i,len));
