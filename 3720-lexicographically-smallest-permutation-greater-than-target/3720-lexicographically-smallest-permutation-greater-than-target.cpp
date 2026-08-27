@@ -7,7 +7,6 @@ public:
         m[it-'a']++;
 
         string ans="";
-        sort(s.begin(),s.end());
         for(auto it:target)
         {
             if(m[it-'a']!=0)
