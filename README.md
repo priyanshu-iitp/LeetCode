@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu-iitp/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/priyanshu-iitp/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/priyanshu-iitp/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3913-sort-vowels-by-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu-iitp/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu-iitp/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3731-find-missing-elements) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
 |  |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu-iitp/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3913-sort-vowels-by-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/3913-sort-vowels-by-frequency) |
 ## Simulation
 |  |
