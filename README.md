@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/priyanshu-iitp/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/priyanshu-iitp/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/priyanshu-iitp/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Concurrency
