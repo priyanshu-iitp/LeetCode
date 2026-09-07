@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/priyanshu-iitp/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/priyanshu-iitp/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/1092-shortest-common-supersequence) |
