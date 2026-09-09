@@ -10,31 +10,32 @@ public:
 
         return a==0?b:a;
     }
-    int check(vector<int>nums,int i)
+    int check(vector<int>&nums,int idx)
     {   
-        if(i!=-1)
-        nums.erase(nums.begin()+i);
+        
+        vector<int>arr;
+        for(int i=0;i<nums.size();i++)
+        {
+            if(i!=idx)
+            arr.push_back(nums[i]);
+        }
 
-        int n=nums.size();
-        vector<int>pre(n);
-        vector<int>suf(n);
+        int m=arr.size();
+        vector<int>pre(m);
+        vector<int>suf(m);
         int ans=0;
 
-        pre[0]=nums[0];
-        for(int i=1;i<n;i++)
+        pre[0]=arr[0];
+        for(int i=1;i<m;i++)
         {
-            pre[i]=gcd(pre[i-1],nums[i]);
+            pre[i]=gcd(pre[i-1],arr[i]);
         }
 
-        suf[n-1]=nums[n-1];
-        for(int i=n-2;i>=0;i--)
+        suf[m-1]=arr[m-1];
+        for(int i=m-2;i>=0;i--)
         {
-            suf[i]=gcd(suf[i+1],nums[i]);
-        }
-
-        for(int i=0;i<n-1;i++)
-        {
-            if(pre[i]==suf[i+1])ans++;
+            suf[i]=gcd(suf[i+1],arr[i]);
+            if(pre[i]==suf[i+1]) ans++;
         }
 
         return ans;
@@ -42,12 +43,12 @@ public:
     int maxValidSplits(vector<int>& nums) {
 
         int ans=0;
-        int n=nums.size();
 
         //no remove 
         ans=max(ans,check(nums,-1));
-        // //one remove
-        for(int i=0;i<n;i++)
+
+        //one remove
+        for(int i=0;i<nums.size();i++)
         {
             int x=check(nums,i);
             ans=max(ans,x);
