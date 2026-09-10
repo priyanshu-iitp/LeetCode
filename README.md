@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshu-iitp/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
