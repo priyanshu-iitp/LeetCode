@@ -8,13 +8,8 @@ public:
 
         for(auto it:t)
         {
-            if(m.count(it))
-            {
-                m[it]--;
-                if(m[it]==0)
-                m.erase(it);
-            }
-            else return it;
+            m[it]--;
+            if(m[it]==-1) return it;
         }
 
         return 'a';
