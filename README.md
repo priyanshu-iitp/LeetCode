@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu-iitp/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu-iitp/LeetCode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyanshu-iitp/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3731-find-missing-elements) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/priyanshu-iitp/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priyanshu-iitp/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/priyanshu-iitp/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
