@@ -768,4 +768,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshu-iitp/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/priyanshu-iitp/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
