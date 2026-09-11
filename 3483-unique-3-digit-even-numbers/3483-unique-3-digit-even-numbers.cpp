@@ -3,7 +3,7 @@ public:
     
     int totalNumbers(vector<int>& nums) {
 
-        unordered_set<string>s;
+        unordered_set<int>s;
         int n=nums.size();
 
         for(int i=0;i<n;i++)
@@ -15,10 +15,11 @@ public:
                 for(int k=0;k<n;k++)
                 {
                     if(i==k || j==k) continue;
+                    if(nums[i]==0) continue;
+                    if(nums[k]%2==1) continue;
 
                     int x=(nums[i]*100)+(nums[j]*10)+nums[k];
-                    string a=to_string(x);
-                    if(a.size()==3 && (a[2]-'0')%2==0) s.insert(a);
+                    s.insert(x);
                 }
             }
         }
