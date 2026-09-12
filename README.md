@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/priyanshu-iitp/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu-iitp/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanshu-iitp/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3582-generate-tag-for-video-caption](https://github.com/priyanshu-iitp/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
