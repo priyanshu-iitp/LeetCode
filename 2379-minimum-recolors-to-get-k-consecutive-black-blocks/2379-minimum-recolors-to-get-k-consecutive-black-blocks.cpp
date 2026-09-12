@@ -5,15 +5,22 @@ public:
         int n=nums.size();
         int ans=INT_MAX;
 
-        for(int i=0;i<=n-k;i++)
-        {   
-            int x=0;
-            for(int j=i;j<i+k;j++)
+        int l=0,r=0;
+        int x=0;
+        while(r<n)
+        {
+            if(nums[r]=='W') x++;
+
+            if(r-l+1>k)
             {
-                if(nums[j]=='W')
-                x++;
+                if(nums[l]=='W')
+                x--;
+                l++;
             }
-            ans=min(x,ans);
+
+            if(r-l+1==k) ans=min(ans,x);
+
+            r++;
         }
 
         return ans;
