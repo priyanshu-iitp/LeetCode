@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/priyanshu-iitp/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu-iitp/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
