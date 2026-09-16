@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int n,int k,vector<vector<int>>&ans,vector<int>temp,int idx)
+    void solve(int n,int k,vector<vector<int>>&ans,vector<int>&temp,int idx)
     {
         if(k==0)
         { 
