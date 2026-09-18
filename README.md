@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/priyanshu-iitp/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2129-capitalize-the-title](https://github.com/priyanshu-iitp/LeetCode/tree/master/2129-capitalize-the-title) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu-iitp/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/priyanshu-iitp/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/priyanshu-iitp/LeetCode/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/priyanshu-iitp/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
