@@ -10,22 +10,44 @@
  */
 class Solution {
 public:
-    int pairSum(ListNode* head) {
-
-        int ans=INT_MIN;
-        vector<int>nums;
-        ListNode*temp=head;
-        while(temp)
+    ListNode* reverse(ListNode* head)
+    {
+        ListNode*prev=NULL;
+        ListNode*curr=head;
+        while(curr)
         {
-            nums.push_back(temp->val);
-            temp=temp->next;
+            ListNode*temp=curr;
+            curr=curr->next;
+            temp->next=prev;
+            prev=temp;
         }
 
-        int n=nums.size();
-        for(int i=0;i<n/2;i++)
+        return prev;
+    }
+    int pairSum(ListNode* head) {
+
+        ListNode*prev=NULL;
+        ListNode*slow=head;
+        ListNode*fast=head;
+
+        while(fast)
         {
-            int sum=nums[i]+nums[n-1-i];
+            fast=fast->next->next;
+            prev=slow;
+            slow=slow->next;
+        }
+
+        prev->next=reverse(slow);
+
+        prev=prev->next;
+        int ans=INT_MIN;
+        ListNode*temp=head;
+        while(prev)
+        {
+            int sum=temp->val+prev->val;
             ans=max(ans,sum);
+            temp=temp->next;
+            prev=prev->next;
         }
 
         return ans;
