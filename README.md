@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/priyanshu-iitp/LeetCode/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/priyanshu-iitp/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/priyanshu-iitp/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
