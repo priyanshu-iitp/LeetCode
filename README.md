@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/priyanshu-iitp/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/priyanshu-iitp/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/priyanshu-iitp/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
