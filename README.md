@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/priyanshu-iitp/LeetCode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2140-solving-questions-with-brainpower](https://github.com/priyanshu-iitp/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/priyanshu-iitp/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2140-solving-questions-with-brainpower](https://github.com/priyanshu-iitp/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3524-find-x-value-of-array-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
