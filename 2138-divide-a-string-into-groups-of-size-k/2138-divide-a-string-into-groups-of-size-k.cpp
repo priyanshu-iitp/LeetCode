@@ -15,11 +15,15 @@ public:
             }
         }
 
-        if(start<n) ans.push_back(s.substr(start,n-start));
-        int m=ans.size();
-        while(ans[m-1].size()!=k)
+        if(start<n) 
+        {      
+            string st=s.substr(start,n-start);
+            ans.push_back(st);
+        }
+
+        while(ans.back().size()!=k)
         {
-            ans[m-1].push_back(fill);
+            ans.back().push_back(fill);
         }
 
         return ans;
