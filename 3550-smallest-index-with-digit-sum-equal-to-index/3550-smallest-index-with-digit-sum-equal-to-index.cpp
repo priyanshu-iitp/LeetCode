@@ -1,13 +1,11 @@
 class Solution {
 public:
-    int sum(int n)
+    int sum(string s)
     {
         int ans=0;
-        while(n)
+        for(auto it:s)
         {
-            int rem=n%10;
-            ans+=rem;
-            n/=10;
+            ans+=it-'0';
         }
         return ans;
     }
@@ -16,7 +14,7 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
-            if(sum(nums[i])==i)return i;
+            if(sum(to_string(nums[i]))==i)return i;
         }
         return -1;
         
