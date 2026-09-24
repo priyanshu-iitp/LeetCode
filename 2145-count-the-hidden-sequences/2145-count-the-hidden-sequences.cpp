@@ -17,7 +17,11 @@ public:
             pre=pre+diff[i];
         }
 
-        int ans=(upper-lower+1)-(maxi-mini);
+        //maxi-mini+1
+        //maxi=upper-maxi;-->maximium range
+        //mini=lower-mini;-->minimum range
+        
+        int ans=(upper-maxi)-(lower-mini)+1;
         return ans<0?0:ans;
 
         
