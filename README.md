@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/priyanshu-iitp/LeetCode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/priyanshu-iitp/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/priyanshu-iitp/LeetCode/tree/master/3024-type-of-triangle) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/priyanshu-iitp/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2544-alternating-digit-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/priyanshu-iitp/LeetCode/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
