@@ -11,6 +11,7 @@ public:
             }
             else if(!st.empty())
             {
+
                 if(it==')')
                 {
                     if(st.top()=='(') st.pop();
@@ -26,9 +27,9 @@ public:
                     if(st.top()=='[') st.pop();
                     else return false;
                 }
-            } 
-            else
-            st.push(it);  
+            }
+            else return false;
+             
         }
 
         return st.size()==0;
