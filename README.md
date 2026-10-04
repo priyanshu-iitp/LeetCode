@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/priyanshu-iitp/LeetCode/tree/master/1048-longest-string-chain) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/priyanshu-iitp/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyanshu-iitp/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/priyanshu-iitp/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/priyanshu-iitp/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/priyanshu-iitp/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyanshu-iitp/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/priyanshu-iitp/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/priyanshu-iitp/LeetCode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshu-iitp/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
