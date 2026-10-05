@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/priyanshu-iitp/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/priyanshu-iitp/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
