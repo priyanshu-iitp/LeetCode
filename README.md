@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/priyanshu-iitp/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/priyanshu-iitp/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2381-shifting-letters-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/priyanshu-iitp/LeetCode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu-iitp/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2381-shifting-letters-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2381-shifting-letters-ii) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3407-substring-matching-pattern](https://github.com/priyanshu-iitp/LeetCode/tree/master/3407-substring-matching-pattern) |
 ## Game Theory
 |  |
