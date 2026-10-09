@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu-iitp/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2381-shifting-letters-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2381-shifting-letters-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/priyanshu-iitp/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/priyanshu-iitp/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
