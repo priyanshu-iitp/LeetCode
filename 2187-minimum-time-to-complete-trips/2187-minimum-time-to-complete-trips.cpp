@@ -1,14 +1,14 @@
 class Solution {
 public:
-    bool check(long long mid,vector<int>&nums,int totalTrips)
+    bool check(long long  mid,vector<int>&nums,int totalTrips)
     {
         long long ans=0;
         for(auto it:nums)
         {
-            ans+=(mid/(long long )it);
-            
+            ans+=(mid/(long long)it);
+            if(ans>=totalTrips) return true;
         }
-       return (ans>=totalTrips) ;
+        return false;
     }
     long long minimumTime(vector<int>& time, int totalTrips) {
         
@@ -20,7 +20,7 @@ public:
         {   
             right=max(right,(long long)it);
         }
-
+        
         right*=1ll*totalTrips;
         
         
