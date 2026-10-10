@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/priyanshu-iitp/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/priyanshu-iitp/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/priyanshu-iitp/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-iitp/LeetCode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/priyanshu-iitp/LeetCode/tree/master/3024-type-of-triangle) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/priyanshu-iitp/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/priyanshu-iitp/LeetCode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
