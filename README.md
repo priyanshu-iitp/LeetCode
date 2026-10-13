@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/priyanshu-iitp/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/priyanshu-iitp/LeetCode/tree/master/2191-sort-the-jumbled-numbers) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyanshu-iitp/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshu-iitp/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshu-iitp/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/priyanshu-iitp/LeetCode/tree/master/3794-reverse-string-prefix) |
