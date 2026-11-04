@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/priyanshu-iitp/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/priyanshu-iitp/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyanshu-iitp/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/priyanshu-iitp/LeetCode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshu-iitp/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/priyanshu-iitp/LeetCode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
