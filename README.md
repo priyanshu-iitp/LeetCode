@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/priyanshu-iitp/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-iitp/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/priyanshu-iitp/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/priyanshu-iitp/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshu-iitp/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-iitp/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-iitp/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-iitp/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0567-permutation-in-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/priyanshu-iitp/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshu-iitp/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/0643-maximum-average-subarray-i) |
