@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3905-multi-source-flood-fill](https://github.com/priyanshu-iitp/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3912-valid-elements-in-an-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/priyanshu-iitp/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
 ## String
 |  |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/priyanshu-iitp/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshu-iitp/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/priyanshu-iitp/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3903-smallest-stable-index-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/priyanshu-iitp/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Queue
 |  |
 | ------- |
