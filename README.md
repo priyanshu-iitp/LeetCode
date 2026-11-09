@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/priyanshu-iitp/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/priyanshu-iitp/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu-iitp/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3407-substring-matching-pattern](https://github.com/priyanshu-iitp/LeetCode/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/priyanshu-iitp/LeetCode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu-iitp/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
