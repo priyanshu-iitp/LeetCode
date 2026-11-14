@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshu-iitp/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/priyanshu-iitp/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyanshu-iitp/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu-iitp/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/priyanshu-iitp/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshu-iitp/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2145-count-the-hidden-sequences](https://github.com/priyanshu-iitp/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2381-shifting-letters-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/priyanshu-iitp/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/priyanshu-iitp/LeetCode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3903-smallest-stable-index-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3903-smallest-stable-index-i) |
