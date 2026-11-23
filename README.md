@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/priyanshu-iitp/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/priyanshu-iitp/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/priyanshu-iitp/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2129-capitalize-the-title](https://github.com/priyanshu-iitp/LeetCode/tree/master/2129-capitalize-the-title) |
