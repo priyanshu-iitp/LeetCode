@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/priyanshu-iitp/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/priyanshu-iitp/LeetCode/tree/master/2032-two-out-of-three) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/priyanshu-iitp/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/priyanshu-iitp/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyanshu-iitp/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshu-iitp/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/priyanshu-iitp/LeetCode/tree/master/2032-two-out-of-three) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/priyanshu-iitp/LeetCode/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/priyanshu-iitp/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyanshu-iitp/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -786,12 +788,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/priyanshu-iitp/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/priyanshu-iitp/LeetCode/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/priyanshu-iitp/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/priyanshu-iitp/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/priyanshu-iitp/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/priyanshu-iitp/LeetCode/tree/master/1291-sequential-digits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu-iitp/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2437-number-of-valid-clock-times](https://github.com/priyanshu-iitp/LeetCode/tree/master/2437-number-of-valid-clock-times) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshu-iitp/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
