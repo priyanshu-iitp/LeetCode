@@ -2,7 +2,6 @@ class Solution {
 public:
     int maximumSaleItems(vector<vector<int>>& items, int budget) {
 
-        auto valmorendi=items;
         int n=items.size();
 
         vector<int>free(n,0);
