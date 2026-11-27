@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/priyanshu-iitp/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3923-minimum-generations-to-target-point](https://github.com/priyanshu-iitp/LeetCode/tree/master/3923-minimum-generations-to-target-point) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/priyanshu-iitp/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/priyanshu-iitp/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/priyanshu-iitp/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu-iitp/LeetCode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/priyanshu-iitp/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/priyanshu-iitp/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
